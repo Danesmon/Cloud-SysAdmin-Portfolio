@@ -1,0 +1,1 @@
+This Folder contains terraform projects deployed in the main public clouds.
